@@ -9,3 +9,7 @@ they win the game and are crowned MASTERMIND!
 (Bonus: The correct positions of the numbers Player got right are also revealed.)
 -  The game continues till Player eventually is able to guess the number entirely.
 -  At the end of which they are crowned as a true MASTERMIND!
+
+## DEMO
+
+https://user-images.githubusercontent.com/89479586/134464906-bf155f85-8d20-424a-8844-71b8028f2ab7.mp4
